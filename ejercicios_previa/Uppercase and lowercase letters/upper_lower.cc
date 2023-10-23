@@ -7,7 +7,7 @@
     * @author Juan Esteban Tamayo Marmolejo.
     * @date 23 oct 2023
     * @brief Inputs an uppercas or lowercase letter,  and prints their opposite.
-   *    	The program takes directly the input and prints the output
+   *      The program takes directly the input and prints the output
    */
 
  #include <iostream>
@@ -28,4 +28,5 @@ int main() {
   std::cout << letra << std::endl;
   return 0;
 }
+
 
